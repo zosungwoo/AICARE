@@ -6,20 +6,19 @@ AI 기반 정신건강 플랫폼
   
 
 ## [](https://github.com/osamhack2021/Repo_Sample-Main-Technology_Sub-Technology_ProjectName_TeamName#%ED%8C%80-%EC%A0%95%EB%B3%B4-team-information)팀 정보 (Team Information)
-![asd (1)](https://user-images.githubusercontent.com/86407466/137922558-d06564d5-7221-4eed-9c79-a703ad4f187f.png)
 
 - 성정환 (육군 지작사 1공병여단)  
 고려대학교 산업경영공학과  
-2021 국방부 데이터활용 경진대회 국방부장관상 수상  
+2021 국방부 데이터활용 경진대회 국방부장관상 수상
+
+- 조성우 (국직 국군의무사령부 국군구리병원)  
+세종대학교 데이터사이언스학과
 
 - 기윤호 (해군 정보체계관리단)  
 한동대학교 전산전자공학부 컴퓨터공학심화전공
 
 - 하철환 (육군 1군단 25사단 72여단)  
 국민대학교 소프트웨어융합학과   
-
-- 조성우 (국직 국군의무사령부 국군구리병원)  
-세종대학교 데이터사이언스학과
 
 
 ## [](https://github.com/osamhack2021/Repo_Sample-Main-Technology_Sub-Technology_ProjectName_TeamName#%ED%94%84%EB%A1%9C%EC%9E%AD%ED%8A%B8-%EC%86%8C%EA%B0%9C)프로젝트 소개
