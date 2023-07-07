@@ -117,7 +117,7 @@ googleapis-common-protos==1.53.0
 googledrivedownloader==0.4
 graphviz==0.8.4
 greenlet==1.1.2
-grpcio==1.41.0
+grpcio==1.53.0
 gspread==3.0.1
 gspread-dataframe==3.0.8
 gym==0.17.3
